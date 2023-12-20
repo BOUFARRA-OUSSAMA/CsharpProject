@@ -1,0 +1,15 @@
+/home/oboufarra/CsharpProject/bin/Debug/net7.0/CsharpProject
+/home/oboufarra/CsharpProject/bin/Debug/net7.0/CsharpProject.deps.json
+/home/oboufarra/CsharpProject/bin/Debug/net7.0/CsharpProject.runtimeconfig.json
+/home/oboufarra/CsharpProject/bin/Debug/net7.0/CsharpProject.dll
+/home/oboufarra/CsharpProject/bin/Debug/net7.0/CsharpProject.pdb
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.csproj.AssemblyReference.cache
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.AssemblyInfoInputs.cache
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.AssemblyInfo.cs
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.csproj.CoreCompileInputs.cache
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.dll
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/refint/CsharpProject.dll
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.pdb
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/CsharpProject.genruntimeconfig.cache
+/home/oboufarra/CsharpProject/obj/Debug/net7.0/ref/CsharpProject.dll
